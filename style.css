@@ -35,9 +35,11 @@ input{
 .btn-login{
     background-color: #1877F2;
 }
-.forget{
+.forget a{
     color: #1877F2;
+    display: block;
     text-align: center;
+    text-decoration: none;
     padding-bottom: 15px;
 }
 .new-account{
